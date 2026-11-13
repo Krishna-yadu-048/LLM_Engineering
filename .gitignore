@@ -13,3 +13,6 @@ wheels/
 src
 
 /practice
+
+week5/vector_db/*
+week5/vetor_db/*
